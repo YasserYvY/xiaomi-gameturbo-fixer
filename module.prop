@@ -4,3 +4,4 @@ description=Fixes Game Turbo not working on some Xiaomi devices
 author=YasserYvY
 version=v1.0.0
 versionCode=1
+repository=https://github.com/YasserYvY/xiaomi-gameturbo-fixer
